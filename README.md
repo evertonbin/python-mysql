@@ -8,8 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-[json](https://docs.python.org/3/library/json.html) and [requests](https://requests.readthedocs.io/en/master/) libraries were previously installed.
-All the other necessary libraries to run the code were already available in Anaconda distribution of Python. This script was written using Python version 3.*.
+[json](https://docs.python.org/3/library/json.html) and [requests](https://requests.readthedocs.io/en/master/) libraries were previously installed. All the other necessary libraries to run the code were already available in Anaconda distribution of Python. This script was written using Python version 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
